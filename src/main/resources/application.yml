@@ -24,4 +24,4 @@ flyway:
   url: jdbc:postgresql://localhost:5432/postgresql
   schemas: log
   user: postgres
-  password: itix.123
+  password: postgres
