@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/healthcheckdb
     username: postgres
-    password: itix.123
+    password: postgres
   jpa:
     show-sql: false
     generate-ddl: true
